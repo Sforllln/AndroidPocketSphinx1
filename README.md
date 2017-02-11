@@ -22,7 +22,7 @@
 注意很多文章都说这样的格式 <s>向前</s>
 这样的格式  我只想跟你说 你被坑了...  这样做出来的语音识别demo是没有任何识别反应的 真害人..
 
-打开这个链接  在线转换lm文件  , 点击选择文件选择刚才的text.txt文件
+打开这个 http://www.speech.cs.cmu.edu/tools/lmtool-new.html 链接  在线转换lm文件  , 点击选择文件选择刚才的text.txt文件
 
 
 然后点击 COMPILE KNOWLEDGE BASE  提交
