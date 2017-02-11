@@ -210,3 +210,5 @@ this.use_partials =false;
 this.mailbox = Event.NONE;
 
 }
+
+参考链接 : http://www.jianshu.com/p/e85e86ac9b99
